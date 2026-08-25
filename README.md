@@ -3,7 +3,6 @@
 <p align="left">
   <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-Expo-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="https://www.espressif.com/"><img src="https://img.shields.io/badge/Hardware-ESP32-red?style=for-the-badge&logo=espressif" alt="ESP32" /></a>
 </p>
 
 ---
