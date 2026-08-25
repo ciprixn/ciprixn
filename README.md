@@ -17,6 +17,7 @@ I am a passionate software developer and tech builder who loves bridging the gap
 
 ### 🔬 What I'm Currently Working On
 * 🧠 **AI & Machine Learning:** Expanding my skillset in Python and Artificial Intelligence
+  
 ---
 
 ### 🛠️ Tools & Technologies
@@ -26,8 +27,11 @@ I am a passionate software developer and tech builder who loves bridging the gap
 * **Backend & Scripting:** Node.js, Python, C, C++
 
 
-**Developer Tools**
-* Git, GitHub, VS Code, Expo Go 
+**Developer Tools & Ecosystem**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
