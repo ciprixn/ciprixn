@@ -41,4 +41,4 @@ I am a passionate software developer and tech builder who loves bridging the gap
 
 ---
 
-⚡ *Always open to collaboration"
+⚡ *Always open to collaboration, and yes it's vibecoded"
